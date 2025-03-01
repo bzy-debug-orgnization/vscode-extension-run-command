@@ -3,6 +3,11 @@
   "displayName": "Run Command",
   "description": "Run vscode(VS Code) commands by command id",
   "version": "0.0.0",
+  "publisher": "bzy-debug",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/bzy-debug-orgnization/vscode-extension-run-command"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
