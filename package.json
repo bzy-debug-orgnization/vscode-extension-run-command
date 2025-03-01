@@ -1,6 +1,6 @@
 {
   "name": "run-command-by-id",
-  "displayName": "Run Command",
+  "displayName": "Run Command by Command Id",
   "description": "Run vscode(VS Code) commands by command id",
   "version": "0.0.0",
   "publisher": "bzy-debug",

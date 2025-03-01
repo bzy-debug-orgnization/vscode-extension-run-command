@@ -1,4 +1,4 @@
-# Run Command
+# Run Command by Command Id
 
 Run vscode(VS Code) commands by its command id.
 
