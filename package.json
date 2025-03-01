@@ -1,5 +1,5 @@
 {
-  "name": "run-command",
+  "name": "run-command-by-id",
   "displayName": "Run Command",
   "description": "Run vscode(VS Code) commands by command id",
   "version": "0.0.0",
@@ -19,8 +19,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "run-command.runCommand",
-        "title": "Run Command"
+        "command": "run-command-by-id.runCommand",
+        "title": "Run Command by ID"
       }
     ]
   },
